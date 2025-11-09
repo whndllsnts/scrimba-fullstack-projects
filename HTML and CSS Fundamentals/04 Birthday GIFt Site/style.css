@@ -21,6 +21,16 @@ h1, h2, h3, h4, p {
   border: 6px solid #EFB0C9;
 }
 
-h2, h4 {
-    background: #EFB0C9;
+#bday-age {
+  background: #EFB0C9;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin: 5px 0 10px;
+}
+
+#bday-date {
+  margin: 0;
+  background: #EFB0C9;
+  border-radius: 5px;
+  padding: 5px 10px;
 }
