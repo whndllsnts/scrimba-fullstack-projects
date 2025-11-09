@@ -1,0 +1,9 @@
+body {
+  font-family: 'Happy Monkey', cursive;
+  text-align: center;
+}
+
+#bff-img {
+  width: 150px;
+  border-radius: 50%;
+}
