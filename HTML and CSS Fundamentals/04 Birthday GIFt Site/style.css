@@ -34,3 +34,21 @@ h1, h2, h3, h4, p {
   border-radius: 5px;
   padding: 5px 10px;
 }
+
+.gift-section {
+  margin-top: 50px;
+}
+
+.gift-title {
+  margin-bottom: 10px;
+}
+
+.gift-hint {
+  margin-top: 0;
+}
+
+.gift-img {
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 10px;
+}
