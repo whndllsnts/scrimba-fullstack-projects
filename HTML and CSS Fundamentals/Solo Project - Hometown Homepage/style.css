@@ -14,7 +14,7 @@ img {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* hero section style */
+/* hero section styles */
 .hero-main {
   background-image: url('images/torshov.jpg');
   background-size: cover;
@@ -48,8 +48,8 @@ img {
   margin-top: 10px;
 }
 
-/* activities section */
-.activities {
+/* activities styles */
+.activities-main {
   width: 720px;
   height: 378px;
   margin: 0 auto;
@@ -89,3 +89,55 @@ img {
   font-size: 16px;
   color: #1d3557;
 }
+
+/* guide styles */
+.guide-main {
+  width: 720px;
+  height: 394px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.guide-card {
+  background-color: #a8dadc;
+  width: 400px;
+  height: 294px;
+  padding: 23px 13px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  border-radius: 10px;
+  box-shadow: 0px 6px #1d3557;
+}
+
+.guide-img {
+  width: 180px;
+  height: 248.67px;
+  border-radius: 10px;
+}
+
+.guide-main-text {
+  font-size: 24px;
+  margin: 30px 7px 14px 11px;
+  color: #1d3557;
+}
+
+.guide-paragraph {
+  margin: 0px 11px 26px 2px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+  color: #1d3557;
+}
+
+.guide-sub-text {
+  margin: 0px 13px 84px 5px;
+  width: 189px;
+  height: 71px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #1d3557;
+}
+  
