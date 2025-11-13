@@ -33,18 +33,59 @@ img {
   background-color: #1d3557;
   font-size: 32px;
   font-weight: 700;
-  padding: 5px 10px;
+  padding: 3px 12px;
   border-radius: 10px;
 }
 
 .sub-text {
   color: #ffffff;
   background-color: #457b9d;
-  width: 400px;
+  width: 355px;
   font-size: 18.72px;
   font-weight: 700;
-  padding: 5px 10px;
+  padding: 5px 29px 8px 28px;
   border-radius: 10px;
   margin-top: 10px;
 }
 
+/* activities section */
+.activities {
+  width: 720px;
+  height: 378px;
+  margin: 0 auto;
+}
+
+.activities-main-title {
+  margin-top: 39px;
+  font-weight: 700;
+  font-size: 24px;
+  color: #1d3557;
+}
+
+.activities-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.activities-card {
+  width: 198px;
+  height: 226px;
+  margin-top: 55px;
+}
+
+.activities-img {
+  border-radius: 100%;
+}
+
+.activities-text {
+  margin: 22px 0px 17px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #1d3557;
+}
+
+.activities-paragraph {
+  font-size: 16px;
+  color: #1d3557;
+}
